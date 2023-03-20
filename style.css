@@ -1,0 +1,28 @@
+body{
+background-color: rgba(0, 0, 0, 0.897);
+
+}
+
+
+.menu__item {
+    padding: 20px;
+   padding-left: 50px;
+   padding-right: 50px;
+   margin-left: 40px;
+   font-weight: bold;   
+   }
+
+   .menu__list {
+    display: flex;
+    background-color: #2e2d2dd2;
+    justify-content: center;
+    
+   }
+
+   
+   .menu__link {
+       color: rgb(221, 215, 215);
+       text-decoration: none;
+       font-size: 26px;
+
+   }
